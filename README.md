@@ -1,3 +1,1 @@
-- 👋 Witam jestem Tyron.
-- 👀 Potrafię Pythona,HTML,Bash
-- 📫 Kontakt: Tyron#5555
+
